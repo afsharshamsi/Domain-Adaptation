@@ -1,2 +1,3 @@
-DTTA by Afshar Shamsi
+# DTTA
+
 To run the code please rename "env.txt" to ".env"
