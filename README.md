@@ -1,2 +1,2 @@
 DTTA by Afshar Shamsi
-To run the code please change "env.txt" to ".env"
+To run the code please rename "env.txt" to ".env"
